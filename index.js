@@ -1,3 +1,6 @@
 const app = "I don't do much."
 
-function 
+var kittens = []
+function destructivelyAppendKitten(name) {
+  
+}
